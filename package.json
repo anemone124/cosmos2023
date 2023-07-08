@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "cosmos2023",
+  "version": "1.0.0",
+  "description": "testing bot for somi",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
